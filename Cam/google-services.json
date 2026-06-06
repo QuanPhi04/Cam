@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924776909398",
+    "project_id": "cam-18ae6",
+    "storage_bucket": "cam-18ae6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924776909398:android:bd07ae6c4a2e6ded03c9f7",
+        "android_client_info": {
+          "package_name": "com.example.cam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQxg_SPx6_oF9kp0UomS1SzWAuWiRDwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
